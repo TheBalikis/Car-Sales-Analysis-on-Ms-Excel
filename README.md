@@ -50,16 +50,10 @@ The car sales company generates large volumes of sales data but does not have cl
    * Approach:The IF function was used to assign performance categories.
 
 ### Salesperson Performance Classification
-   Salesperson Performance Classification
-**Objective:**  
-Evaluate salesperson performance based on the number of cars sold.
-**Approach:**  
-A list of salespersons was created using the salesperson names in the dataset.The COUNTIF function was used to calculate the number of cars sold by each salesperson.
-An IF statement was then applied to classify salesperson performance based on predefined thresholds.
-**Formulas Used:**
-=COUNTIF(Salesperson_Range, Salesperson_Name)
-=IF(Sales_Count>=10,"High Performer",
-   IF(Sales_Count>=5,"Average Performer","Low Performer"))
+   * Objective:Evaluate salesperson performance based on the number of cars sold.
+   * Approach: A list of salespersons was created using the salesperson names in the dataset.The COUNTIF function was used to calculate the number of cars sold by each salesperson.An IF statement was then applied to classify salesperson performance based on predefined thresholds.
+   * Formulas Used: =COUNTIF(Salesperson_Range, Salesperson_Name)
+                     =IF(Sales_Count>=10,"High Performer",IF(Sales_Count>=5,"Average Performer","Low Performer"))
    
 ### Identifying Profitable Electric Car Sales
    * Objective:Identify electric car sales that generated positive profit.
