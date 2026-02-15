@@ -63,9 +63,13 @@ The car sales company generates large volumes of sales data but does not have cl
 
 ## Key Insights
 •	Electric vehicles are commanding a price premium, consistently outperforming non-electric models in average transaction value.
+
 •	Salesperson performance varies significantly, with clear distinctions between top performers, average performers, and those needing improvement.
+
 •	Total revenue analysis shows the overall financial performance of car sales and highlights the company’s sales capacity.
+
 •	Performance and profit flagging streamlines the decision-making process, allowing management to identify emerging trends and act on them in real-time.
+
 •	While electric cars generally sell at higher prices, not all electric car sales are profitable, indicating the need for better cost control strategies.
 
 ---
