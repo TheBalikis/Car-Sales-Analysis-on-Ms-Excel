@@ -2,7 +2,7 @@
 ---
 
 ## Project Overview
-This project analyzes a car sales dataset using Microsoft Excel to extract business Insights related to revenue generation, pricing, sales performance and profitability. The analysis focuses on understanding sales trends, identifying hihg-value cars,evaluating electric vehichle performance, and assessing salesperson effectiveness.
+This project analyzes a car sales dataset using Microsoft Excel to extract business Insights related to revenue generation, pricing, sales performance and profitability. The analysis focuses on understanding sales trends, identifying high-value cars,evaluating electric vehichle performance, and assessing salesperson effectiveness.
 
 ---
 
@@ -62,7 +62,7 @@ The car sales company generates large volumes of sales data but does not have cl
 ---
 
 ## Key Insights
-•	Electric vehicles are commanding a price premium, consistently outperforming non-electric models in average transaction value."
+•	Electric vehicles are commanding a price premium, consistently outperforming non-electric models in average transaction value.
 •	Salesperson performance varies significantly, with clear distinctions between top performers, average performers, and those needing improvement.
 •	Total revenue analysis shows the overall financial performance of car sales and highlights the company’s sales capacity.
 •	Performance and profit flagging streamlines the decision-making process, allowing management to identify emerging trends and act on them in real-time.
