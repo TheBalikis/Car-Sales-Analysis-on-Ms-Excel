@@ -1,6 +1,19 @@
 # Car-Sales-Analysis-on-Ms-Excel
 ---
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Problem Statement](#problem-statement)
+- [Objective](#objective)
+- [Methodology](#methodology)
+- [Tools Used](#tools-used)
+- [Analysis Summary](#analysis-summary)
+- [Key Findings ](#key-findings)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+
+--
+
 ## Project Overview
 This project analyzes a car sales dataset using Microsoft Excel to extract business Insights related to revenue generation, pricing, sales performance and profitability. The analysis focuses on understanding sales trends, identifying high-value cars,evaluating electric vehichle performance, and assessing salesperson effectiveness.
 
@@ -8,6 +21,50 @@ This project analyzes a car sales dataset using Microsoft Excel to extract busin
 
 ## Business Problem
 The car sales company generates large volumes of sales data but does not have clear visibility into which car models generate the most revenue, how electric cars perform compared to other vehicles, and which salespersons contribute most to overall performance.
+
+---
+
+## Objective 
+1.	Calculate the total revenue generated from car sales
+2.	Identify the car with the highest sale price
+3.	Determine the average sale price of electric cars
+4.	Classify sales transactions based on performance levels
+5.	Evaluate salesperson performance using sales counts
+6.	Identify profitable electric car sales
+
+---
+
+## Methodology
+The analysis followed a structured, step-by-step approach:
+1.	Data Understanding
+Reviewed the dataset to understand variables such as car type, sale price,
+salesperson, and profit.
+2.	Data Preparation
+ensured data consistency, removed blanks, and organized columns for analysis.
+3.	Exploratory Analysis
+Applied Excel formulas to calculate totals, averages, and maximum values.
+4.	Classification Logic
+Used logical conditions (IF statements) to classify sales and salesperson
+performance based on defined thresholds.
+5.	Profitability Analysis
+Filtered electric car sales and analyzed profit values to identify profitable
+transactions.
+6.	Insight Generation
+Interpreted results to highlight revenue trends, performance patterns, and
+business-relevant insights
+
+---
+
+## Tools Used
+•	Microsoft Excel
+•	Excel Functions:
+o	SUM
+o	MAX
+o	AVERAGE
+o	COUNTIF
+o	IF
+•	Data filtering and sorting
+•	Basic Excel tables and formatting
 
 ---
 
@@ -21,14 +78,7 @@ The car sales company generates large volumes of sales data but does not have cl
 
 ---
 
-## Tools Used
-- Microsoft Excel
-- Excel functions (Sum, Max, AverageIf, If, Index, Average)
-
----
-
 ## Analysis Summary
-
 ### Total Revenue from Sales
   * Objective: Calculate the total revenue generated from all car sales. 
   * Approach:The SUM function was applied to the sales price column to compute total revenue.
