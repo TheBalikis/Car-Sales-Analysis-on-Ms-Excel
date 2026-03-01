@@ -98,16 +98,21 @@ o	IF
       - Medium Performance → Sales between 50,000 and 99,999
       - Low Performance → Sales < 50,000
    * Approach:The IF function was used to assign performance categories.
+     ![Sales Performance](images/sales_performance.png)
+
 
 ### Salesperson Performance Classification
    * Objective:Evaluate salesperson performance based on the number of cars sold.
    * Approach: A list of salespersons was created using the salesperson names in the dataset.The COUNTIF function was used to calculate the number of cars sold by each salesperson.An IF statement was then applied to classify salesperson performance based on predefined thresholds.
    * Formulas Used: =COUNTIF(Salesperson_Range, Salesperson_Name)
                      =IF(Sales_Count>=10,"High Performer",IF(Sales_Count>=5,"Average Performer","Low Performer"))
+     ![Salesperson Performance](images/salesperson_performance.png)
+
    
 ### Identifying Profitable Electric Car Sales
    * Objective:Identify electric car sales that generated positive profit.
    * Approach:Electric car transactions were filtered, and profit values were analyzed to identify profitable sales.
+     ![Profitable Electric Cars](images/profitable_electric_sales.png)
 
 ---
 
