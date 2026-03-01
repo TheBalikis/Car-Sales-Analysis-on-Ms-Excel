@@ -19,7 +19,7 @@ This project analyzes a car sales dataset using Microsoft Excel to extract busin
 
 ---
 
-## Business Problem
+## Problem Statement
 The car sales company generates large volumes of sales data but does not have clear visibility into which car models generate the most revenue, how electric cars perform compared to other vehicles, and which salespersons contribute most to overall performance.
 
 ---
@@ -51,7 +51,7 @@ Filtered electric car sales and analyzed profit values to identify profitable
 transactions.
 6.	Insight Generation
 Interpreted results to highlight revenue trends, performance patterns, and
-business-relevant insights
+business-relevant insights.
 
 ---
 
